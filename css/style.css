@@ -1,0 +1,99 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.elementor-1{
+    background-image: url(../imagens/moneyImg.png);
+    background-size: cover;
+}
+.elementor-1 .container-md{
+    display: flex;
+    align-items: center;
+    min-height: 500px;
+}
+.elementor-1  .row{
+    display: flex;
+    padding: 10px;
+}
+.elementor-1  .wrap{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.elementor-1  .left-content {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.elementor-1  .left-content .content-container {
+    padding: 10px;
+}
+.container-img .img{
+    text-align: left;
+    margin-bottom: 20px;
+}
+.container-img .img img{
+    width: 30%;
+    height: auto;
+} 
+.container .h1{
+    margin-bottom: 20px;
+}
+.container .h1 h1{
+    color: #000;
+    font-size: 38px;
+    font-weight: 700;
+}
+.container h2{
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+}
+.elementor-1 .container-btn{
+    padding-top: 25px;
+}
+.elementor-1 .btn{
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,.5);
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #502bdb;
+}
+.left-content .container{
+    padding: 0;
+}
+.elementor-2{
+    background-image: url(https://cdn-dljoh.nitrocdn.com/kvrcXcsYgTLwbuIiInCSMMlHiCuzMdNN/assets/static/optimized/rev-764d037/wp-content/uploads/2021/10/jgnfgb.png);
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    background-position: top center
+}
+.elementor-2 .container-md{
+    display: flex;
+    align-items: center;
+    
+}
+.elementor-2  .row{
+    display: flex;
+}
+.elementor-2  .wrap{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    padding: 10px;
+
+}
+.elementor-2 h2{
+    color: #000;
+    font-family: "Raleway",Sans-serif;
+    font-size: 22px;
+    font-weight: 700
+}
+.elementor-2 .txt{
+    margin-bottom: 20px;
+}
+.elementor-2 .btn{
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,.5);
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #502bdb;
+}
