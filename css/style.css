@@ -11,19 +11,6 @@
     align-items: center;
     min-height: 500px;
 }
-.elementor-1  .row{
-    display: flex;
-    padding: 10px;
-}
-.elementor-1  .wrap{
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-}
-.elementor-1  .left-content {
-    display: flex;
-    flex-wrap: nowrap;
-}
 .elementor-1  .left-content .content-container {
     padding: 10px;
 }
@@ -71,16 +58,6 @@
     display: flex;
     align-items: center;
     
-}
-.elementor-2  .row{
-    display: flex;
-}
-.elementor-2  .wrap{
-    display: flex;
-    flex-wrap: wrap;
-    align-content: flex-start;
-    padding: 10px;
-
 }
 .elementor-2 h2{
     color: #000;
